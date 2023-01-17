@@ -25,14 +25,14 @@ entre otras...
 
 ## Mis Proyectos
 <h3>Proyecto Individual: Henry Dogs</h3>
-- <a href= "https://github.com/matighigi/PI-Dogs"> Dogs App </a>
+- <a href= "https://github.com/matighigi/PI-Dogs"> 🐶Dogs App🐶 </a>
 <br/>
-- <a href= "https://dogs-pi-zeta.vercel.app/"> Visitar Sitio Web </a>
+- <a href= "https://dogs-pi-zeta.vercel.app/"> Visitar Sitio Web💻 </a>
 
 <h3>Proyecto Final: Oasis Library</h3>
-- <a href= "https://github.com/Dota43ver/OasisLibrary"> Oasis Library Book App </a>
+- <a href= "https://github.com/Dota43ver/OasisLibrary"> 📚Oasis Library Book App📚 </a>
 <br/>
-- <a href= "https://oasis-library.vercel.app/"> Visitar Sitio Web </a>
+- <a href= "https://oasis-library.vercel.app/"> Visitar Sitio Web💻 </a>
 
 ## 🙎‍♂️Contacto
 
