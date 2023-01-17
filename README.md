@@ -1,6 +1,5 @@
 <h1 align="center">
- ¡Hola!👋👋
- <img width="15%" src="https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar.gif">
+ ¡Hola! <img width="5%" src="https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar.gif">
 </h1>
 <p>
 Mi nombre es <strong>Matias Agustin Ghigi</strong>, tengo 20 años y comencé a estudiar desarrollo web a mediados del año anterior. Inicialmente contaba con nulos conocimientos de desarrollo web; después de mas de 1200 horas de continuo aprendizaje y experiencias en proyectos tanto individuales como grupales, puedo decir que finalmente soy </p> <h3><strong>"Full Stack Developer"</strong></h3> <p>gracias al Bootcamp que brinda HENRY! Afortunadamente este cambio me hizo descubrir lo mucho que me gusta programar y pasarme las horas desarrollando e intentando resolver los problemas hasta encontrar la satisfactoria resolución😁</p>
