@@ -2,7 +2,7 @@
  ¡Hola!👋👋
 </h1>
 <p>
-Mi nombre es <h5>Matias Agustin Ghigi</h5>, tengo 20 años y comencé a estudiar desarrollo web a mediados del año anterior. Inicialmente contaba con nulos conocimientos de desarrollo web; después de mas de 1200 horas de continuo aprendizaje y experiencias en proyectos tanto individuales como grupales, puedo decir que finalmente soy </p> <h4><strong>"Full Stack Developer"</strong></h4> <p>gracias al Bootcamp que brinda HENRY! Afortunadamente este cambio me hizo descubrir lo mucho que me gusta programar y pasarme las horas desarrollando e intentando resolver los problemas hasta encontrar la satisfactoria resolución😁</p>
+Mi nombre es <strong>Matias Agustin Ghigi</strong>, tengo 20 años y comencé a estudiar desarrollo web a mediados del año anterior. Inicialmente contaba con nulos conocimientos de desarrollo web; después de mas de 1200 horas de continuo aprendizaje y experiencias en proyectos tanto individuales como grupales, puedo decir que finalmente soy </p> <h4><strong>"Full Stack Developer"</strong></h4> <p>gracias al Bootcamp que brinda HENRY! Afortunadamente este cambio me hizo descubrir lo mucho que me gusta programar y pasarme las horas desarrollando e intentando resolver los problemas hasta encontrar la satisfactoria resolución😁</p>
 
 <p>💼Actualmente me encuentro en búsqueda de trabajo como Full Stack, Front o Back End Developer! Estoy muy feliz e incentivado por adentrarme en esta etapa laboral del desarrollo web. A lo largo de todo este tiempo he podido desarrollar mi conocimiento en diversas tecnologías, y en habilidades blandas como la autonomía, trabajo en equipo, y resolución de problemas. Constantemente me gusta aprender cosas nuevas, y estoy dispuesto a aprender de los demás y ayudar a otros que lo necesiten para lograr el mejor resultado!</p>
 
@@ -25,12 +25,12 @@ entre otras...
 
 ## Mis Proyectos
 <h3>Proyecto Individual: Henry Dogs</h3>
-<a href= "https://github.com/matighigi/PI-Dogs"> Dogs App </a>
-<a href= "https://dogs-pi-zeta.vercel.app/"> Visitar Sitio Web </a>
+- <a href= "https://github.com/matighigi/PI-Dogs"> Dogs App </a>
+- <a href= "https://dogs-pi-zeta.vercel.app/"> Visitar Sitio Web </a>
 
 <h3>Proyecto Final: Oasis Library</h3>
-<a href= "https://github.com/Dota43ver/OasisLibrary"> Oasis Library Book App </a>
-<a href= "https://oasis-library.vercel.app/"> Visitar Sitio Web </a>
+- <a href= "https://github.com/Dota43ver/OasisLibrary"> Oasis Library Book App </a>
+- <a href= "https://oasis-library.vercel.app/"> Visitar Sitio Web </a>
 
 ## 🙎‍♂️Contacto
 
