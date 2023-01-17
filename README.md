@@ -23,9 +23,9 @@ Mi nombre es Matias Agustin Ghigi, tengo 20 años y comencé a estudiar desarrol
 - HTML 5
 entre otras...
 
-🙎‍♂️Contacto:
+## 🙎‍♂️Contacto:
 
--📧matiasghigi@gmail.com ----> E-mail
--📲+5493516191576 ----> WhatsApp
--<a href="https://www.linkedin.com/in/matias-ghigi/"> Matias Ghigi </a> ----> Linkedin
+- 📧matiasghigi@gmail.com ----> E-mail
+- 📲+5493516191576 ----> WhatsApp
+- <a href="https://www.linkedin.com/in/matias-ghigi/"> Matias Ghigi </a> ----> Linkedin
 
